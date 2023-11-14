@@ -1,0 +1,14 @@
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\bin\Debug\net6.0\UD2T4GarcíaMuñozPablo.exe
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\bin\Debug\net6.0\UD2T4GarcíaMuñozPablo.deps.json
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\bin\Debug\net6.0\UD2T4GarcíaMuñozPablo.runtimeconfig.json
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\bin\Debug\net6.0\UD2T4GarcíaMuñozPablo.dll
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\bin\Debug\net6.0\UD2T4GarcíaMuñozPablo.pdb
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\obj\Debug\net6.0\UD2T4GarcíaMuñozPablo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\obj\Debug\net6.0\UD2T4GarcíaMuñozPablo.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\obj\Debug\net6.0\UD2T4GarcíaMuñozPablo.AssemblyInfo.cs
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\obj\Debug\net6.0\UD2T4GarcíaMuñozPablo.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\obj\Debug\net6.0\UD2T4GarcíaMuñozPablo.dll
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\obj\Debug\net6.0\refint\UD2T4GarcíaMuñozPablo.dll
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\obj\Debug\net6.0\UD2T4GarcíaMuñozPablo.pdb
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\obj\Debug\net6.0\UD2T4GarcíaMuñozPablo.genruntimeconfig.cache
+C:\Users\pablo\source\repos\UD2T4GarcíaMuñozPablo\UD2T4GarcíaMuñozPablo\obj\Debug\net6.0\ref\UD2T4GarcíaMuñozPablo.dll
